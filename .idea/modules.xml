@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DataCommunicationCLP.iml" filepath="$PROJECT_DIR$/DataCommunicationCLP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Kotlinsz/Kotlinsz.iml" filepath="$PROJECT_DIR$/Kotlinsz/Kotlinsz.iml" />
     </modules>
   </component>
 </project>
